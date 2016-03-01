@@ -1,0 +1,26 @@
+/*Settings page styles.*/
+#custom-type-list { margin: 20px 0; }
+#custom-type-list li {
+	border: 1px solid #ddd;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background-color:#f7f7f7;
+	max-width: 400px;
+	padding: 10px;
+	cursor: move;
+}
+#loading-animation { display: none; }
+/*work cpt page*/
+.meta-row textarea[type="text"]{
+	width:100%; 
+	height:100px;
+	background:#669999;
+	border:2px sloid #006600;
+	color:#fff;
+}
+.meta-row label {
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 700;
+}
